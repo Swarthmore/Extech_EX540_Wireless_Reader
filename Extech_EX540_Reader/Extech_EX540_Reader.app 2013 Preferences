@@ -1,0 +1,13 @@
+[Extech_EX540_Reader.app]
+server.app.propertiesEnabled=True
+server.tcp.paranoid=True
+server.tcp.serviceName="My Computer/"
+server.vi.callsEnabled=True
+server.vi.propertiesEnabled=True
+WebServer.TcpAccess="c+*"
+WebServer.ViAccess="+*"
+DebugServerEnabled=False
+DebugServerWaitOnLaunch=False
+RTTarget.ApplicationPath=c:ni-rt:startup:startup.rtexe
+RTTarget.VIPath=c:ni-rt:startup
+
