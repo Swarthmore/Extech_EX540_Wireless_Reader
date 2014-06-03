@@ -1,4 +1,4 @@
-[Application.app]
+[Extech_EX540_Reader.app]
 server.app.propertiesEnabled=True
 server.tcp.paranoid=True
 server.tcp.serviceName="My Computer/"
